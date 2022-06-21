@@ -1,4 +1,4 @@
-MSSubClass: Identifies the type of dwelling involved in the sale.	
+MSSubClass: Identifies the type of dwelling involved in the sale.
 
         20	1-STORY 1946 & NEWER ALL STYLES
         30	1-STORY 1945 & OLDER
@@ -18,52 +18,52 @@ MSSubClass: Identifies the type of dwelling involved in the sale.
        190	2 FAMILY CONVERSION - ALL STYLES AND AGES
 
 MSZoning: Identifies the general zoning classification of the sale.
-		
+
        A	Agriculture
        C	Commercial
        FV	Floating Village Residential
        I	Industrial
        RH	Residential High Density
        RL	Residential Low Density
-       RP	Residential Low Density Park 
+       RP	Residential Low Density Park
        RM	Residential Medium Density
-	
+
 LotFrontage: Linear feet of street connected to property
 
 LotArea: Lot size in square feet
 
 Street: Type of road access to property
 
-       Grvl	Gravel	
+       Grvl	Gravel
        Pave	Paved
-       	
+
 Alley: Type of alley access to property
 
        Grvl	Gravel
        Pave	Paved
        NA 	No alley access
-		
+
 LotShape: General shape of property
 
-       Reg	Regular	
+       Reg	Regular
        IR1	Slightly irregular
        IR2	Moderately Irregular
        IR3	Irregular
-       
+
 LandContour: Flatness of the property
 
-       Lvl	Near Flat/Level	
+       Lvl	Near Flat/Level
        Bnk	Banked - Quick and significant rise from street grade to building
        HLS	Hillside - Significant slope from side to side
        Low	Depression
-		
+
 Utilities: Type of utilities available
-		
-       AllPub	All public Utilities (E,G,W,& S)	
+
+       AllPub	All public Utilities (E,G,W,& S)
        NoSewr	Electricity, Gas, and Water (Septic Tank)
        NoSeWa	Electricity and Gas Only
-       ELO	Electricity only	
-	
+       ELO	Electricity only
+
 LotConfig: Lot configuration
 
        Inside	Inside lot
@@ -71,7 +71,7 @@ LotConfig: Lot configuration
        CulDSac	Cul-de-sac
        FR2	Frontage on 2 sides of property
        FR3	Frontage on 3 sides of property
-	
+
 LandSlope: Slope of property
 		
        Gtl	Gentle slope
